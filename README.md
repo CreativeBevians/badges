@@ -6,7 +6,7 @@ If you trust us/github with hosting, feel free to copy the following for your RE
 |Badge|Link|
 |-----|----|
 |[![Creative Bevians badge](https://raw.githubusercontent.com/CreativeBevians/badges/refs/heads/main/rendered/creative_bevians.svg)](https://creative.bevians.com)|```[![Creative Bevians badge](https://raw.githubusercontent.com/CreativeBevians/badges/refs/heads/main/rendered/creative_bevians.svg)](https://creative.bevians.com)```|
-|[![Bevy badge](https://raw.githubusercontent.com/CreativeBevians/badges/refs/heads/main/bevy.svg)](https://bevy.org)|```[![Creative Bevians badge](https://raw.githubusercontent.com/CreativeBevians/badges/refs/heads/main/bevy.svg)](https://bevy.org)```|
+|[![Bevy badge](https://raw.githubusercontent.com/CreativeBevians/badges/refs/heads/main/rendered/bevy.svg)](https://bevy.org)|```[![Creative Bevians badge](https://raw.githubusercontent.com/CreativeBevians/badges/refs/heads/main/bevy.svg)](https://bevy.org)```|
 |[![AI sober badge](https://raw.githubusercontent.com/CreativeBevians/badges/refs/heads/main/rendered/ai_sober.svg)](https://creative.bevians.com)|```[![Creative Bevians badge](https://raw.githubusercontent.com/CreativeBevians/badges/refs/heads/main/rendered/ai_sober.svg)](https://creative.bevians.com)```|
 
 Else you can download the rendered versions from the `rendered/` folder.
