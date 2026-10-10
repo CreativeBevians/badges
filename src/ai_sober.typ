@@ -1,6 +1,6 @@
 #import "theme.typ": button
 #button()[
-  #align(horizon)[
+  #align(horizon +center)[
     AI Sober
   ]
 ]
